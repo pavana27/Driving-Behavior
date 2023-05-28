@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1rPde6vQom48lS6b5TEFsSZ1KigfgC3NJ7RXTzT4Ee_Q/
 
 The Code for YLLO can be found in this repository:
 https://github.com/pavana27/YLLO-BATS.git 
+
+Code for Cellular Automata can be found here:
+https://github.com/pavana27/cellular-automata-code.git 
